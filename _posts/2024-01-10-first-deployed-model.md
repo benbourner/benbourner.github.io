@@ -5,7 +5,7 @@ subtitle: Categorising Dutch Emergency Vehicles
 cover-img: /assets/img/emergency.jpeg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
-tags: [books, test]
+tags: [ai, huggingface, test]
 author: Ben Bourner
 ---
 
