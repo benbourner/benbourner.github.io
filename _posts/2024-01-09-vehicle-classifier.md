@@ -1,7 +1,7 @@
 ---
 layout: post
-title: First AI model
-subtitle: "Revolutionizing Emergency Response: My AI Journey with Dutch Emergency Vehicles"
+title: Emergency Vehicle Classifier
+subtitle: "My AI Journey with Dutch Emergency Vehicles"
 cover-img: /assets/img/emergency.jpeg
 thumbnail-img: /assets/img/vehicles-3.png
 share-img: /assets/img/emergency.jpeg
@@ -9,7 +9,7 @@ tags: [AI, machine learning, emergency vehicles, fastai, gradio, Python, Hugging
 author: Ben Bourner
 ---
 
-Using [fastai](https://www.fast.ai/), a powerful Python AI library, I've created and trained an AI model — a specialized tool that can accurately distinguish between various Dutch emergency vehicles, such as police cars, ambulances, and fire engines.
+Using [fastai](https://github.com/fastai/fastai), a powerful Python AI library, I've created and trained an AI model — a specialized tool that can accurately distinguish between various Dutch emergency vehicles, such as police cars, ambulances, and fire engines.
 
 ## The Inspiration
 
@@ -17,7 +17,7 @@ The idea stemmed from a simple observation: in emergency situations, identifying
 
 ## The Journey
 
-Embarking on this project, I chose the [fastai library](https://www.fast.ai/) for its user-friendly interface and robust capabilities in handling complex tasks like image recognition. The journey wasn't easy, involving countless hours of dataset preparation, model training, and testing. My dataset comprised hundreds of images of Dutch emergency vehicles, each meticulously labeled and categorized.
+Embarking on this project, I chose the [fastai library](https://github.com/fastai/fastai) for its user-friendly interface and robust capabilities in handling complex tasks like image recognition. The journey wasn't easy, involving countless hours of dataset preparation, model training, and testing. My dataset comprised hundreds of images of Dutch emergency vehicles, each meticulously labeled and categorized.
 
 ## The Breakthrough
 
