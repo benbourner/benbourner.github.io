@@ -3,7 +3,7 @@ layout: post
 title: First AI model
 subtitle: "Revolutionizing Emergency Response: My AI Journey with Dutch Emergency Vehicles"
 cover-img: /assets/img/emergency.jpeg
-thumbnail-img: /assets/img/ai-vehicles.png
+thumbnail-img: /assets/img/ai-vehicles-2.png
 share-img: /assets/img/path.jpg
 tags: [AI, machine learning, emergency vehicles, fastai, Python, Hugging Face, image recognition, Dutch emergency services]
 author: Ben Bourner
