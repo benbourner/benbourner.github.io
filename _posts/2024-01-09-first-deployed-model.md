@@ -1,21 +1,51 @@
 ---
 layout: post
 title: First AI model
-subtitle: Categorising Dutch Emergency Vehicles
+subtitle: "Revolutionizing Emergency Response: My AI Journey with Dutch Emergency Vehicles"
 cover-img: /assets/img/emergency.jpeg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/ai-vehicles.png
 share-img: /assets/img/path.jpg
-tags: [ai, huggingface, test]
+tags: [AI, machine learning, emergency vehicles, fastai, Python, Hugging Face, image recognition, Dutch emergency services]
 author: Ben Bourner
 ---
 
-Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
+## Introduction
+
+Hello everyone! I'm thrilled to share a significant milestone in my AI journey. Using the [fastai library](https://www.fast.ai/), a powerful tool in Python, I've successfully created and trained an AI model. This model isn't just any AI—it's a specialized tool that can accurately distinguish between various Dutch emergency vehicles, such as police cars, ambulances, and fire engines.
+
+## The Inspiration
+
+The idea stemmed from a simple observation: in emergency situations, identifying the type of vehicle rapidly and accurately can be crucial. Whether for traffic management, emergency response coordination, or public safety, knowing whether an approaching vehicle is a police car, an ambulance, or a fire engine is vital. This led me to ponder: Could AI help in making these distinctions quickly and accurately?
+
+## The Journey
+
+Embarking on this project, I chose the [fastai library](https://www.fast.ai/) for its user-friendly interface and robust capabilities in handling complex tasks like image recognition. The journey wasn't easy. It involved countless hours of dataset preparation, model training, and testing. My dataset comprised hundreds of images of Dutch emergency vehicles, each meticulously labeled and categorized.
+
+## The Breakthrough
+
+After several iterations and much fine-tuning, the model began showing promising results. It could not only distinguish between the different types of vehicles but do so with remarkable accuracy. This breakthrough was not just a technical accomplishment; it was a moment of realization about the potential impact of AI in critical areas like emergency response.
+
+## The Deployment
+
+The model is now live and hosted on [Hugging Face](https://huggingface.co/), a leading platform for machine learning models. This represents my first deployment of an AI model to production—a significant step in my career as an AI enthusiast and developer.
+
+## Try It Out Live!
+
+I invite you to experience the model firsthand. You can try it out live here. Upload an image of a Dutch emergency vehicle (or choose one of the examples), and watch the AI work its magic!
 
 <script type="module" src="https://gradio.s3-us-west-2.amazonaws.com/4.13.0/gradio.js"></script>
 <gradio-app src="https://benboai-vehicle-checker.hf.space"></gradio-app>
 
-The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
+## Conclusion
 
-At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.
+This project is just the beginning. It represents a blend of technology and social impact, showcasing how AI can play a pivotal role in critical sectors like emergency services. I look forward to exploring further and contributing more to this fascinating field of AI.
 
-A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.
+Thank you for sharing this journey with me!
+
+---
+
+*This post reflects my personal experience and journey in the field of AI and is not affiliated with any official entity or organization.*
+
+---
+
+[Back to top](#introduction)
