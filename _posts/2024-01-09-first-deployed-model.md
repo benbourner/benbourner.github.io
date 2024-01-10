@@ -34,7 +34,7 @@ The model is now live and hosted on [Hugging Face](https://huggingface.co/), a l
 I invite you to experience the model firsthand. You can try it out live here. Upload an image of a Dutch emergency vehicle (or choose one of the examples), and watch the AI work its magic!
 
 <script type="module" src="https://gradio.s3-us-west-2.amazonaws.com/4.13.0/gradio.js"></script>
-<gradio-app src="https://benboai-vehicle-checker.hf.space"></gradio-app>
+<gradio-app src="https://benboai-vehicle-checker.hf.space" theme_mode="light"></gradio-app>
 
 ## Conclusion
 
