@@ -9,9 +9,7 @@ tags: [AI, machine learning, emergency vehicles, fastai, Python, Hugging Face, i
 author: Ben Bourner
 ---
 
-## Introduction
-
-Hello everyone! I'm thrilled to share a significant milestone in my AI journey. Using the [fastai library](https://www.fast.ai/), a powerful tool in Python, I've successfully created and trained an AI model. This model isn't just any AI—it's a specialized tool that can accurately distinguish between various Dutch emergency vehicles, such as police cars, ambulances, and fire engines.
+Using the [fastai library](https://www.fast.ai/), a powerful tool in Python, I've successfully created and trained an AI model — a specialized tool that can accurately distinguish between various Dutch emergency vehicles, such as police cars, ambulances, and fire engines.
 
 ## The Inspiration
 
