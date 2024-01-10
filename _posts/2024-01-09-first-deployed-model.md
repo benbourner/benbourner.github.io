@@ -25,7 +25,7 @@ After several iterations and much fine-tuning, the model began showing promising
 
 ## The Deployment
 
-The model is now live, presented with [Gradio](https://www.gradio.app/) and hosted on [Hugging Face](https://huggingface.co/), a leading platform for machine learning models. This represents my first deployment of an AI model to production—a significant step for an AI enthusiast and developer.
+The model is now live, presented with [Gradio](https://www.gradio.app/) - a fast way to demo a machine learning model with a friendly web interface, and hosted on [Hugging Face](https://huggingface.co/) - a leading platform for machine learning models. This represents my first deployment of an AI model to production—a significant step for an AI enthusiast and developer.
 
 ## Try It Out Live!
 
