@@ -2,7 +2,7 @@
 layout: page
 title: About me
 subtitle: Insight into my abilities and talents
-tags: test, one, two
+tags: Ben Bourner, Software Development, DevOps Leadership, Cloud Infrastructure Specialist, IT Consultancy Services, Artificial Intelligence Insights, Cloud Technology Solutions, Continuous Integration and Delivery, Chief Technology Officer, Digital Transformation Leadership
 ---
 
 My name is Ben Bourner. I have decades of experience in multiple IT fields, encompassing everything from:
@@ -21,9 +21,9 @@ My early career in software development was always driven by a passion for techn
 
 At the intersection of DevOps and cloud computing, I have driven change and efficiency in various roles, including DevOps Product Owner and Senior DevOps Engineer. My expertise here lies in developing and implementing cloud-based solutions, automation strategies, and continuous integration and delivery pipelines, while enabling software development teams. My focus is always on creating robust, scalable systems and processes that align with business goals and foster a culture of continuous learning.
 
-### Seasoned IT Consultant and Strategic Leader
+### Seasoned IT Consultant
 
-As a Principle IT consultant with extensive experience in mission-critical engineering and cloud-native platforms, I specialize in delivering bespoke solutions that drive business growth and technological innovation. My career spans significant roles where I've leveraged my skills in API management, cloud computing, DevOps and most recently AI to advise top-tier clients.
+As a Principal Consultant with extensive experience in mission-critical engineering and cloud-native platforms, I specialize in delivering bespoke solutions that drive business growth and technological innovation. My career spans significant roles where I've leveraged my skills in API management, cloud computing, DevOps and most recently AI to advise top-tier clients.
 
 ### Visionary C-Level Technology Leader and Strategist
 
