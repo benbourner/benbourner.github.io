@@ -21,9 +21,10 @@ author: Ben Bourner
 
 navbar-links:
   About Me: "aboutme"
+  Contact: "contactme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Fast.AI: "https://docs.fast.ai/"
+    - Svelte: "https://svelte.dev/"
   Author's home: "https://benbourner.github.io"
 
 ################
