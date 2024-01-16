@@ -13,7 +13,7 @@ tags: Ben Bourner, Software Development, DevOps Leadership, Cloud Infrastructure
     <input type="hidden" name="accessKey" value="4317d733-40ae-4543-babb-6202af818331">
     <input type="hidden" name="subject" value="Contact us from - example.com" />
     <input type="hidden" name="replyTo" value="@">
-    <input type="hidden" name="redirectTo" value="https://example.com/contact/success">
+    <input type="hidden" name="redirectTo" value="https://benbourner.github.io/success">
     <input type="submit" value="Submit" />
 </form>
     
