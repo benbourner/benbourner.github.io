@@ -67,7 +67,7 @@ This performs 4 iterations fine tuning the model and becomes more accurate each 
 2|	0.147096|	0.039068|	0.015873|	00:06
 3|	0.123984|	0.026801|	0.015873|	00:06
 
-Once the model is fine tuned, it is moved to another program which can be used to make predictions of category based on image inputs. This is what you see above in the live demo.
+Once the model is fine tuned, it is deployed to [Hugging Face](https://huggingface.co/) and loaded by another program which can be used to make predictions of category based on image inputs. This is what you see above in the live demo. Interestingly the prediction functionality only needs regular low-end hardware, unlike the fine-tuning which really needs a GPU.
 
 
 ## Conclusion
