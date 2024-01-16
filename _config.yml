@@ -21,11 +21,13 @@ author: Ben Bourner
 
 navbar-links:
   About Me: "aboutme"
-  Contact: "contactme"
+  Blog: "https://benbourner.github.io"
   Resources:
     - Fast.AI: "https://docs.fast.ai/"
-    - Svelte: "https://svelte.dev/"
-  Author's home: "https://benbourner.github.io"
+    - Hugging Face: "https://huggingface.co/"
+    - SvelteJS: "https://svelte.dev/"
+  Contact: "contactme"
+  
 
 ################
 # --- Logo --- #
